@@ -1,7 +1,3 @@
-# Linktree-clone
-
-# Linktree-clone
-
 <h1 align="center"> DevLinks: Linktree - Clone Rocketseat </h1>
 
 <p align="center">
